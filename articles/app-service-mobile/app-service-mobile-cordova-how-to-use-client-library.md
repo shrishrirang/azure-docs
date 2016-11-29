@@ -31,7 +31,6 @@ support is as follows:
 * Android API 19-24 (KitKat through Nougat)
 * iOS versions 8.0 and later.
 * Windows Phone 8.0
-* Windows Phone 8.1
 * Universal Windows Platform
 
 ## <a name="Setup"></a>Setup and Prerequisites
